@@ -1,0 +1,190 @@
+{
+  "data_coleta": "2026-10-19",
+  "paises_referencia": [
+    {
+      "pais": "Brasil",
+      "tipo": "Inovação",
+      "descricao": "Principal polo de EdTechs da América Latina, liderando a implementação de inteligência artificial generativa em redes públicas e privadas para personalização do aprendizado, tutoria adaptativa e gestão da evasão escolar.",
+      "fontes": [
+        "https://materiais.distrito.me",
+        "https://cieb.net.br"
+      ]
+    },
+    {
+      "pais": "Estados Unidos",
+      "tipo": "Tecnologia",
+      "descricao": "Referência global em pesquisa, formulação de políticas de letramento em IA pedagógica (frameworks ISTE/ASCD) e desenvolvimento de ecossistemas de grandes modelos de linguagem (LLMs) educacionais.",
+      "fontes": [
+        "https://www.iste.org",
+        "https://conference.iste.org"
+      ]
+    },
+    {
+      "pais": "Coreia do Sul",
+      "tipo": "Tecnologia",
+      "descricao": "Vanguarda na incorporação nacional de livros didáticos com IA (AI Digital Textbooks) e plataformas adaptativas integradas à rotina da educação básica pública.",
+      "fontes": [
+        "https://summitexplore.com.br"
+      ]
+    }
+  ],
+  "edtechs": [
+    {
+      "nome": "TutorMundi",
+      "regiao": "Brasil",
+      "destaque_recente": "Avanço no uso de modelos de IA para triagem pedagógica instantânea e plantão de dúvidas sob demanda, ampliando parcerias com redes privadas e públicas.",
+      "foco": "Tutoria online, acompanhamento pedagógico e mediação de dúvidas",
+      "site": "https://tutormundi.com"
+    },
+    {
+      "nome": "Reeducation",
+      "regiao": "Brasil",
+      "destaque_recente": "Adoção consolidada de soluções em IA e ambientes imersivos para modernizar processos de ensino e reduzir a carga operacional de professores em escolas públicas brasileiras.",
+      "foco": "Transformação digital e IA aplicada à gestão de redes de ensino",
+      "site": "https://reeducation.com.br"
+    },
+    {
+      "nome": "Khan Academy (Khanmigo)",
+      "regiao": "Global",
+      "destaque_recente": "Escala global da ferramenta de tutoria inteligente voltada a promover o raciocínio socrático dos estudantes e assistir docentes no planejamento de aulas sem gerar respostas prontas.",
+      "foco": "Tutoria adaptativa e copiloto de apoio docente com IA",
+      "site": "https://khanacademy.org"
+    }
+  ],
+  "casos_de_sucesso": [
+    {
+      "titulo": "Implementação de Trilhas Formativas em Programação e IA em Escolas Públicas",
+      "escopo": "Brasil",
+      "resumo": "Projeto conjunto com instituições de inovação formando milhares de estudantes do ensino médio em competências digitais críticas e aplicação responsável de IA na resolução de problemas locais.",
+      "instituicao_responsavel": "Secretaria de Estado de Educação de Pernambuco em parceria com CESAR School",
+      "link": "https://www.cesar.school"
+    },
+    {
+      "titulo": "Letramento em IA e Projeção de Futuro na Educação Básica",
+      "escopo": "Brasil",
+      "resumo": "Uso prático de ferramentas de geração de imagens com IA para cocriação de projetos de vida e valorização vocacional de estudantes de regiões periféricas, promovendo engajamento e redução do abandono escolar.",
+      "instituicao_responsavel": "Escola Estadual Professor Carlos Cristovam Zink (Campinas/SP)",
+      "link": "https://agenciabrasil.ebc.com.br"
+    },
+    {
+      "titulo": "Diretrizes Globais para o Ensino da IA e Salvaguardas Éticas nas Escolas",
+      "escopo": "Mundo",
+      "resumo": "Adoção internacional dos referenciais de competências de IA para professores e estudantes formulados no âmbito da Digital Learning Week, garantindo privacidade de dados e soberania educacional.",
+      "instituicao_responsavel": "UNESCO",
+      "link": "https://www.unesco.org/en/artificial-intelligence/education"
+    }
+  ],
+  "eventos": [
+    {
+      "nome": "GEduc 2027 (25 Anos)",
+      "abrangencia": "Brasil",
+      "data": "31 de março a 02 de abril de 2027",
+      "foco": "Educação | Inovação e IA",
+      "link_oficial": "https://www.geduc2027.com.br",
+      "local": "Pro Magno Centro de Eventos, São Paulo/SP, Brasil"
+    },
+    {
+      "nome": "Bett Brasil 2027 (32ª Edição - Coragem para transformar)",
+      "abrangencia": "Brasil",
+      "data": "04 a 07 de maio de 2027",
+      "foco": "Educação | Inovação e IA",
+      "link_oficial": "https://brasil.bettshow.com",
+      "local": "Expo Center Norte, São Paulo/SP, Brasil"
+    },
+    {
+      "nome": "Bett UK 2027",
+      "abrangencia": "Mundo",
+      "data": "20 a 22 de janeiro de 2027",
+      "foco": "Educação | Inovação e IA",
+      "link_oficial": "https://uk.bettshow.com",
+      "local": "ExCeL London, Londres, Reino Unido"
+    },
+    {
+      "nome": "SXSW EDU 2027",
+      "abrangencia": "Mundo",
+      "data": "13 a 16 de março de 2027",
+      "foco": "Educação | Inovação e IA",
+      "link_oficial": "https://www.sxswedu.com",
+      "local": "Austin Convention Center, Austin, Texas, EUA"
+    },
+    {
+      "nome": "ISTELive 2027 (ISTE + ASCD Annual Conference)",
+      "abrangencia": "Mundo",
+      "data": "27 a 30 de junho de 2027",
+      "foco": "Educação | Inovação e IA",
+      "link_oficial": "https://conference.iste.org/2027/",
+      "local": "Thomas M. Menino Convention & Exhibition Center, Boston, MA, EUA"
+    },
+    {
+      "nome": "UNESCO Digital Learning Week 2027",
+      "abrangencia": "Mundo",
+      "data": "Data a definir (2027)",
+      "foco": "Educação | Inovação e IA",
+      "link_oficial": "https://www.unesco.org/en/weeks/digital-learning",
+      "local": "Sede da UNESCO, Paris, França e Transmissão Global"
+    }
+  ],
+  "portais_e_referencias": [
+    {
+      "nome": "UNESCO - Artificial Intelligence in Education Hub",
+      "tipo": "Referência IA Mundo",
+      "descricao": "Portal central da ONU para relatórios, consensos mundiais e diretrizes regulatórias e pedagógicas sobre o impacto da IA no ensino.",
+      "link": "https://www.unesco.org/en/artificial-intelligence/education"
+    },
+    {
+      "nome": "Centro de Inovação para a Educação Brasileira (CIEB)",
+      "tipo": "Referência IA BR",
+      "descricao": "Referência brasileira na proposição de diagnósticos de maturidade digital, notas técnicas sobre IA e estratégias para a educação pública.",
+      "link": "https://cieb.net.br"
+    },
+    {
+      "nome": "Distrito EdTech Hub & Research",
+      "tipo": "Portal BR",
+      "descricao": "Plataforma de inteligência de mercado com dados analíticos, tendências de investimento e mapeamento do ecossistema de startups educacionais no Brasil.",
+      "link": "https://distrito.me"
+    },
+    {
+      "nome": "EdSurge",
+      "tipo": "Portal Estrangeiro",
+      "descricao": "Veículo internacional de referência em jornalismo investigativo e análise das intersecções entre tecnologia emergente, modelos pedagógicos e políticas educacionais.",
+      "link": "https://www.edsurge.com"
+    }
+  ],
+  "eventos_nov_dez_2026": [
+    {
+      "nome": "2° Encontro Panamericano de Economia da Educação",
+      "data": "09 a 11 de novembro de 2026",
+      "local": "UFF - Niterói/RJ, Brasil (Grande Rio)",
+      "foco": "Impacto financeiro, métricas e avaliação de políticas públicas e tecnologias educacionais na América Latina.",
+      "link": "https://www.even3.com.br/aedebrasil-f862-426b-a7e3-11558c058ce7-726389/"
+    },
+    {
+      "nome": "III Seminário de Estudos sobre o Estado do Rio de Janeiro (III SEERJ)",
+      "data": "23 a 25 de novembro de 2026",
+      "local": "UERJ - Rio de Janeiro/RJ, Brasil",
+      "foco": "Políticas públicas, educação e estudos regionais fluminenses.",
+      "link": "https://friperj.rio/eventos/"
+    },
+    {
+      "nome": "V CINPED - Congresso Brasileiro de Pesquisa e Inovação em Educação",
+      "data": "09 a 12 de novembro de 2026",
+      "local": "Plataforma Virtual / Híbrido - Brasil",
+      "foco": "Pesquisa, inovação e palestras sobre as transformações nas práticas de ensino.",
+      "link": "https://ime.events/v-cinped"
+    },
+    {
+      "nome": "2026 EdTec – International Conference on Education & Learning Technology",
+      "data": "22 a 23 de novembro de 2026",
+      "local": "Londres, Reino Unido",
+      "foco": "Desenvolvimento de EdTechs, inteligência artificial e cooperação acadêmica global.",
+      "link": "https://www.iconf.com/conference/"
+    },
+    {
+      "nome": "EDUtech Asia 2026",
+      "data": "04 a 05 de novembro de 2026",
+      "local": "Sands Expo and Convention Centre - Singapura",
+      "foco": "Liderança em IA e tecnologias adaptativas reunindo líderes de EdTechs e governos globais.",
+      "link": "https://edutechglobal.net/events/"
+    }
+  ]
+}
